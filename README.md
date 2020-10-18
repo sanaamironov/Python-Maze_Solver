@@ -1,4 +1,5 @@
-# maze-solver-python
+# Maze-Solver-Python
+This was a class project where we solved a maze problem recursivly. 
 
 For this project, you will harness the computing power of Python to solve a maze, using a recursive search algorithm. You will need to understand algorithms, Python data structures, file I/O, and recursion to complete this project.
 
